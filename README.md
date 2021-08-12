@@ -13,7 +13,8 @@
 
 ## Network Diagram
 
-![Network Diagram](https://user-images.githubusercontent.com/75664650/129245853-84b4007f-829c-4bfc-a894-d66dfde88aeb.png)
+![Network Diagram (1)](https://user-images.githubusercontent.com/75664650/129245960-6a1edbe6-294d-4a75-89e2-288f7380e4a9.png)
+
 
 
 ## Challegnges and how I overcame them :
