@@ -13,7 +13,8 @@
 
 ## Network Diagram
 
-![Network Diagram (1)](https://user-images.githubusercontent.com/75664650/129245960-6a1edbe6-294d-4a75-89e2-288f7380e4a9.png)
+![Network Diagram](https://user-images.githubusercontent.com/75664650/129246268-9b817bdf-fa92-4925-97f4-6bab83bac4ba.png)
+
 
 
 
