@@ -1,8 +1,9 @@
 # WSO2-WPA-Enterprise-Authentication-Assignment
 ## LT-2021-047
 
-### Config Files are upload to the FreeRadius Config folder
+## Config Files are uploaded to a Github Private Repo and can be accessed via - https://gitfront.io/r/eshamaaqib/1a9f22a1f90e648fd547b8a9012fbbb6e431f04c/WSO2-WPA-Enterprise-Authentication-Assignment/
 
+### Config Files are upload to the FreeRadius Config folder
 
 ## Proposed Solution :
 
