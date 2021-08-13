@@ -10,7 +10,7 @@
 
 ## Plan :
 
-### The plan here is to first configure freeradius with basic password authentication. Only users with role Radius will be able to access the network. All the user information will be stored in the WSO2 Identity Server and FreeRadius will access them using the LDAP module. After verifiying the basic password based authentication works I will go forward the implement MFA. As FreeRadius supports PAM (Pluggable Authentication Module) I will integrate the Google Authenticator PAM module with FreeRadius. This module allows FreeRadius to talk with Google Authenticator. I will be referring the guide written by Lakindu Jayasena (Lecturer who conducted this lecture; https://sysopstechnix.com/enable-2fa-on-freeradius-with-openldap-users/)  
+### The plan here is to first configure freeradius with basic password authentication. Only users with role Radius will be able to access the network. All the user information will be stored in the WSO2 Identity Server and FreeRadius will access them using the LDAP module. After verifiying the basic password based authentication works I will go forward and implement MFA. As FreeRadius supports PAM (Pluggable Authentication Module) I will integrate the Google Authenticator PAM module with FreeRadius. This module allows FreeRadius to talk with Google Authenticator. I will be referring the guide written by Lakindu Jayasena (Lecturer who conducted this lecture; https://sysopstechnix.com/enable-2fa-on-freeradius-with-openldap-users/)  
 
 ## Network Diagram
 
