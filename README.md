@@ -60,6 +60,6 @@
 
 ![Screenshot from 2021-08-12 13-14-42](https://user-images.githubusercontent.com/75664650/129247916-d9b449a1-ae28-4055-a392-ccfcbfe49008.png)
 
-### In this screenshot there are 3 results. The first one I have entered a wrong 2FA code which then the access has been rejected. The second one I have entered the coorect one and access has been granted. The third one access has been rejected as admin does not belong the the group radius.
+### In this screenshot there are 3 results. The first one I have entered a wrong 2FA code which then the access has been rejected. The second one I have entered the corect one and access has been granted. The third one access has been rejected as admin does not belong the the group radius.
 
 ![Screenshot from 2021-08-12 13-25-36](https://user-images.githubusercontent.com/75664650/129248002-a2590bf1-93ad-451b-aa39-631c8f0aa9e4.png)
